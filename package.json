@@ -1,0 +1,15 @@
+{
+  "name": "subscription-manager",
+  "version": "1.0.0",
+  "description": "Subscription Manager",
+  "main": "app.js",
+  "dependencies": {
+    "nodemailer": "^6.9.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
